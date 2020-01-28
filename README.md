@@ -1,0 +1,3 @@
+# Bayes_Optimal_Classifier
+
+this code is an object oriented implementation of bayes optimal classifier with several options for pdf estimation such as non-parametric parzen windowing , ...
